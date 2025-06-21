@@ -26,4 +26,4 @@ udemy-clone/
 │ └── (course thumbnails, logos, etc.)
 └── README.md
 
-🔗 View Live ()
+🔗 View Live (https://madhumitha7528.github.io/Udemy-Clone/)
